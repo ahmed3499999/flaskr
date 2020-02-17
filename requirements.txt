@@ -1,0 +1,8 @@
+Click==7.0
+Flask==1.1.1
+-e git+https://git.heroku.com/ahmedsblog.git@eeacb1163c06ab6eb2b44812a23b1d6edf2a39c3#egg=flaskr&subdirectory=flaskr
+gunicorn==20.0.4
+itsdangerous==1.1.0
+Jinja2==2.11.1
+MarkupSafe==1.1.1
+Werkzeug==1.0.0
